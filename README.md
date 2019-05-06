@@ -1,7 +1,6 @@
 # Microsoft Learn: Design an MVVM viewmodel for Xamarin.Forms
 
-[//]: # (TODO: Link back to Microsoft Learn module.)
-This project contains the source code for the **Design an MVVM viewmodel for Xamarin.Forms** Microsoft Learn module.
+This project contains the source code for the [**Design an MVVM viewmodel for Xamarin.Forms**](https://docs.microsoft.com/learn/modules/design-a-mvvm-viewmodel-for-xamarin-forms/) Microsoft Learn module.
 
 # Contributing
 
